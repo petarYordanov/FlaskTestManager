@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body >
+<h2 align="center">Test Results: E2E Tests</h2>
+<table class="table table-bordered" style="width:600px;" align="center">
+    <thead>
+    <tr>
+        <th scope="col">TEST</th>
+        <th scope="col"></th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for key, value in test1.items() %}
+    <tr>
+        <th scope="row">{{ key }}</th>
+        <td>{{ value }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>

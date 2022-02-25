@@ -1,0 +1,429 @@
+1645775415493	geckodriver	INFO	Listening on 127.0.0.1:50910
+1645775418574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50911" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofile7fmUiN"
+1645775418844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofile7fmUiN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50911/devtools/browser/303621ea-e38d-496c-9f86-17ef241789bf
+1645775420547	Marionette	INFO	Listening on port 50917
+1645775420630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645775507515	geckodriver	INFO	Listening on 127.0.0.1:50994
+1645775510606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50995" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilesGZj8l"
+1645775510846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofilesGZj8l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50995/devtools/browser/79bffa66-7675-48cf-97b7-7c064392f4e3
+1645775512353	Marionette	INFO	Listening on port 51001
+1645775512663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-4sYiv7uFugH1PgVeRb0F7gL3N27obdizTixLSM-gPg.js line 1 > eval line 123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645775575610	Marionette	INFO	Stopped listening on port 51001
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645775627411	geckodriver	INFO	Listening on 127.0.0.1:51124
+1645775630511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51125" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilemSYnjo"
+1645775630726	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofilemSYnjo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51125/devtools/browser/96bf5d10-ac21-46f7-8dee-5e447ac1aff2
+1645775632285	Marionette	INFO	Listening on port 51131
+1645775632565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-4sYiv7uFugH1PgVeRb0F7gL3N27obdizTixLSM-gPg.js line 1 > eval line 4711 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645776069788	geckodriver	INFO	Listening on 127.0.0.1:51473
+1645776072855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51474" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileuOFOum"
+1645776073096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileuOFOum\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51474/devtools/browser/c4445e4c-e258-4155-bd44-75ef58d111e3
+1645776074758	Marionette	INFO	Listening on port 51480
+1645776074909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 7019 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645776332788	geckodriver	INFO	Listening on 127.0.0.1:51699
+1645776335884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51700" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilefPmCAU"
+1645776336125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists,1645776339634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51712" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileA0YZzC"
+1645776339886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetchconsole.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Java1645776441184	Marionette	INFO	Stopped listening on port 51706
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+undError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645776434836	Marionette	INFO	Stopped listening on port 51752
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645776583164	geckodriver	INFO	Listening on 127.0.0.1:52061
+1645776586253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52062" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileln1gtt"
+1645776586474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileln1gtt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52062/devtools/browser/96ff33ad-a1d1-45f5-ac06-9d6e7b1d3d48
+1645776588178	Marionette	INFO	Listening on port 52068
+1645776588310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 1160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645776789728	geckodriver	INFO	Listening on 127.0.0.1:52278
+1645776792805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52279" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilekom9OK"
+1645776793081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofilekom9OK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52279/devtools/browser/3d5ba046-411e-413c-bba2-f7b2821444ef
+1645776794670	Marionette	INFO	Listening on port 52285
+1645776794853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3297 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+1645777352609	geckodriver	INFO	Listening on 127.0.0.1:62343
+1645777355676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62344" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileAGS8pr"
+1645777355917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileAGS8pr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62344/devtools/browser/67721fbd-fa78-4baf-9456-bce1c9a89738
+1645777357491	Marionette	INFO	Listening on port 62350
+1645777357749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 7012 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645777408260	geckodriver	INFO	Listening on 127.0.0.1:62478
+1645777411308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62479" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofile1O8Y4v"
+1645777411539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofile1O8Y4v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62479/devtools/browser/4e1518de-96bd-41ac-b994-3ada6534ddb2
+1645777413036	Marionette	INFO	Listening on port 62489
+1645777413366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 1317 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645777470330	Marionette	INFO	Stopped listening on port 62489
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645778087182	geckodriver	INFO	Listening on 127.0.0.1:62877
+1645778090248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62878" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileFFJvZf"
+1645778090485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileFFJvZf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62878/devtools/browser/623ceba6-872d-4737-a0f7-970a2fecf7d0
+1645778092128	Marionette	INFO	Listening on port 62884
+1645778092309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 5317 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645778162923	geckodriver	INFO	Listening on 127.0.0.1:63038
+1645778165984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63039" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileAafGmF"
+1645778166218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileAafGmF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63039/devtools/browser/1770ef49-d19d-4306-98e9-44adc130f4f9
+1645778167894	Marionette	INFO	Listening on port 63045
+1645778168049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 2064 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645778855790	Marionette	INFO	Stopped listening on port 63045
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645798412981	geckodriver	INFO	Listening on 127.0.0.1:61813
+1645798416041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61814" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilesRWA1y"
+1645798416360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofilesRWA1y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61814/devtools/browser/b26c4e62-61d8-40f7-95a4-ad383d9f2252
+1645798418058	Marionette	INFO	Listening on port 61820
+1645798418103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645798429974	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3779 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 5515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147483719"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.17.0/otBannerSdk.js, line 7: TypeError: r is undefined
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147483746"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645799245648	geckodriver	INFO	Listening on 127.0.0.1:62523
+1645799248703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62524" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofile4QAMpx"
+1645799248957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofile4QAMpx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62524/devtools/browser/2f7de24f-d26b-446a-abe6-36247c0b3e43
+1645799250587	Marionette	INFO	Listening on port 62531
+1645799250756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645799345482	geckodriver	INFO	Listening on 127.0.0.1:62730
+1645799348539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62731" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileTi3zOK"
+1645799348775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileTi3zOK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62731/devtools/browser/6d9163ed-231c-4c94-b44d-07eafe812174
+1645799350363	Marionette	INFO	Listening on port 62738
+1645799350594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 6134 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645799493995	geckodriver	INFO	Listening on 127.0.0.1:63006
+1645799497066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63007" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileAC8MLm"
+1645799497298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileAC8MLm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63007/devtools/browser/90c7bdb2-86be-4fa6-aec3-af443a56d577
+1645799498832	Marionette	INFO	Listening on port 63014
+1645799499120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 1656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645799621205	geckodriver	INFO	Listening on 127.0.0.1:63248
+1645799624267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63249" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilecU4bNU"
+1645799624500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofilecU4bNU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63249/devtools/browser/067c590a-7468-46e0-94e2-d938a875c5ef
+1645799626094	Marionette	INFO	Listening on port 63255
+1645799626317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 1520 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645800649843	geckodriver	INFO	Listening on 127.0.0.1:63787
+1645800652908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63788" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofile7QKles"
+1645800653138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofile7QKles\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63788/devtools/browser/fcf928f2-faf1-4159-95d0-cb254af4feda
+1645800654662	Marionette	INFO	Listening on port 63794
+1645800654959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645800665467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3861 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645800861660	geckodriver	INFO	Listening on 127.0.0.1:64096
+1645800864729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64097" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileoap0dX"
+1645800864958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileoap0dX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64097/devtools/browser/0697125a-edac-4a72-94d3-1b475f81346f
+1645800866539	Marionette	INFO	Listening on port 64103
+1645800866785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 3619 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645800989286	geckodriver	INFO	Listening on 127.0.0.1:64271
+1645800992350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64272" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofile4zWc9Y"
+1645800992595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofile4zWc9Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64272/devtools/browser/c8327fd6-c76a-4852-b1c4-240d74be1ea3
+1645800994181	Marionette	INFO	Listening on port 64278
+1645800994398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 5986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645801027314	geckodriver	INFO	Listening on 127.0.0.1:64389
+1645801030360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64390" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilemVUdFn"
+1645801030604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofilemVUdFn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64390/devtools/browser/945c6a23-052d-447e-93e9-ac060260a4f8
+1645801032192	Marionette	INFO	Listening on port 64396
+1645801032416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 7138 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645801150300	geckodriver	INFO	Listening on 127.0.0.1:64569
+1645801153374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64570" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofiledGAbxq"
+1645801153609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofiledGAbxq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64570/devtools/browser/07654f9b-7616-4608-a2a5-d7074f990443
+1645801155197	Marionette	INFO	Listening on port 64576
+1645801155428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 4559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 6538 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645801194374	geckodriver	INFO	Listening on 127.0.0.1:64722
+1645801197425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64723" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileNhTldB"
+1645801197661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileNhTldB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64723/devtools/browser/875ee18c-3c8c-4485-bdd4-e31a735351a9
+1645801199326	Marionette	INFO	Listening on port 64729
+1645801199482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 7375 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645801491635	geckodriver	INFO	Listening on 127.0.0.1:64986
+1645801494696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64987" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofilepwhwlJ"
+1645801494926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofilepwhwlJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64987/devtools/browser/d4852924-3a58-4761-a394-844507eae118
+1645801496561	Marionette	INFO	Listening on port 64993
+1645801496754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645801506421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645801624741	geckodriver	INFO	Listening on 127.0.0.1:65159
+1645801627839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65160" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofiledIj7uY"
+1645801628064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofiledIj7uY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65160/devtools/browser/5f4501bf-f5c1-484a-b040-718b53743b5f
+1645801629662	Marionette	INFO	Listening on port 65166
+1645801629893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645802035124	geckodriver	INFO	Listening on 127.0.0.1:65475
+1645802038209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65476" "-no-remote" "-profile" "C:\\Users\\PETARY~1\\AppData\\Local\\Temp\\rust_mozprofileERLGEc"
+1645802038442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Petar Yordanov\\AppData\\Local\\Temp\\rust_mozprofileERLGEc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65476/devtools/browser/53c650b6-6ae6-47d6-b6c9-e67b1255e439
+1645802040025	Marionette	INFO	Listening on port 65482
+1645802040255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 7813 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: http://uitestpractice.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 7468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SEydyQZSjRoGK7a6-62vN0wUVQOkw95oJslnxkLdz_Y.js line 1 > eval line 7193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://uitestpractice.com"
