@@ -25,4 +25,11 @@ class StudentsIndexPage(BasePage):
     def click_create_new_student(self):
         self.click("create_student_button_XPATH")
 
+    def find_new_student(self, firstName, lastName, date):
+        self.setup_table_row_attr(self.driver)
+        studentRow = self.driver.find_element_by_css_selector("tr[firstname='" + firstName + "']")
+        if studentRow.get_attribute("lastname") == lastName and studentRow.get_attribute("date") == date:
+            return studentRow.get_attribute("id")
+
+
 

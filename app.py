@@ -23,7 +23,8 @@ def GetData():
 def e2e():
     e2e = EndToEndTests()
     test1 = e2e.test_get_student_details()
-    return render_template("e2e_results.html", test1=test1)
+    test2 = e2e.test_create_new_student()
+    return render_template("e2e_results.html", test1=test1, test2=test2)
 
 
 
